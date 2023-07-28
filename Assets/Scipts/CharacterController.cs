@@ -7,13 +7,8 @@ public class CharacterController : MonoBehaviour
 {
     // Start is called before the first frame update
     public float speed;
-    public float sidespeed;
-    public float otherside;
-    public float side;
     public GameObject player;
     public Rigidbody rb;
-
-
     public float jumpspeed;
     
     void Start()
@@ -38,12 +33,12 @@ public class CharacterController : MonoBehaviour
         
         if (Input.GetKeyDown("space"))
         {
-            // RaycastHit Hit;
-            //
-            // if (Physics.Raycast(player.transform.position, Vector3.down, out Hit, 1.1f, 1))
-            // {
-            //     rb.velocity += new Vector3(0, jumpspeed, 0);
-            // }
+            RaycastHit Hit;
+            
+            if (Physics.Raycast(player.transform.position, Vector3.down, out Hit, 1.1f, 1))
+            {
+                rb.velocity += new Vector3(0, jumpspeed, 0);
+            }
         }
         
 
