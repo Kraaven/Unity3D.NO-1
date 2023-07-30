@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35672182-d6fb-4426-868c-603565e9628f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.idea.SomeGame/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SomeGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SomeGame/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Green 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Green 1.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Green 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Green 2.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Green 3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Green 3.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Green 4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Green 4.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Trunk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Trunk.mat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scipts/CharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/CharacterController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scipts/PlayerMovement.cs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scipts/PlayerMovement.cs.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scipts/Interact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/Interact.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scipts/ObjectInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/ObjectInfo.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +100,10 @@
       <workItem from="1690378530904" duration="498000" />
       <workItem from="1690379048840" duration="3775000" />
       <workItem from="1690385857392" duration="1181000" />
-      <workItem from="1690536165745" duration="3138000" />
+      <workItem from="1690536165745" duration="8006000" />
+      <workItem from="1690631523664" duration="1590000" />
+      <workItem from="1690653141795" duration="1509000" />
+      <workItem from="1690717551139" duration="2342000" />
     </task>
     <servers />
   </component>
