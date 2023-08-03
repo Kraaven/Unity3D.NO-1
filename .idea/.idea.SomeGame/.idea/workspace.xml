@@ -3,14 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="35672182-d6fb-4426-868c-603565e9628f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SomeGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SomeGame/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Green 1.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Green 1.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Green 2.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Green 2.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Green 3.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Green 3.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Green 4.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Green 4.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Materials/Tree/Trunk.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials/Tree/Trunk.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Log.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Log.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scipts/CharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/CharacterController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scipts/Interact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/Interact.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scipts/ObjectInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/ObjectInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +101,9 @@
       <workItem from="1690536165745" duration="8006000" />
       <workItem from="1690631523664" duration="1590000" />
       <workItem from="1690653141795" duration="1509000" />
-      <workItem from="1690717551139" duration="2342000" />
+      <workItem from="1690717551139" duration="2938000" />
+      <workItem from="1690799290116" duration="1203000" />
+      <workItem from="1691060809241" duration="2325000" />
     </task>
     <servers />
   </component>

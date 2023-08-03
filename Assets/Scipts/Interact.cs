@@ -6,7 +6,7 @@ using UnityEngine.Video;
 
 public class Interact : MonoBehaviour
 {
-
+    
     public GameObject touch;
     public bool see = false;
     public GameObject camera;

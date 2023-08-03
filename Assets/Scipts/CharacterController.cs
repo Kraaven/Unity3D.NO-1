@@ -35,7 +35,7 @@ public class CharacterController : MonoBehaviour
         {
             RaycastHit Hit;
             
-            if (Physics.Raycast(player.transform.position, Vector3.down, out Hit, 1.1f, 1))
+            if (Physics.Raycast(player.transform.position, Vector3.down, out Hit, 1.1f))
             {
                 rb.velocity += new Vector3(0, jumpspeed, 0);
             }
