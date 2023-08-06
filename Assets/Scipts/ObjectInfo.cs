@@ -2,6 +2,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using Random = UnityEngine.Random;
 
 public class ObjectInfo : MonoBehaviour
 {
@@ -18,6 +19,7 @@ public class ObjectInfo : MonoBehaviour
     public int numdrop1;
     public GameObject dropped2 = null;
     public int numdrop2;
+    public bool isdrop;
     
     [Header("Pickup Settings")]
     public bool BePickedUp;
@@ -34,10 +36,27 @@ public class ObjectInfo : MonoBehaviour
             for (int i = 0; i < numdrop1; i++)
             {
                 Debug.Log(spawn.z + 0.25f * i);
-                Instantiate(dropped1, new Vector3(spawn.x, spawn.y, spawn.z), Quaternion.identity);
+                Quaternion spawnrot = Quaternion.Euler(0, Random.Range(0f, 360f), 0);
+                Instantiate(dropped1, new Vector3(spawn.x + Random.Range(-1f,1f) , spawn.y+ (dropped1.GetComponent<MeshRenderer>().bounds.size.y*i*1.3f), spawn.z + Random.Range(-1f,1f)), spawnrot );
+
             }
         }
         
         Destroy(gameObject);
+    }
+
+    public void Start()
+    {
+        if (isdrop)
+        {
+            gameObject.GetComponent<Collider>().enabled = false;
+            Invoke("coleneable", 0.1f);
+        }
+    }
+
+    public void coleneable()
+    {
+        Debug.Log(name + " collider enabled");
+        gameObject.GetComponent<Collider>().enabled = true;
     }
 }

@@ -106,6 +106,7 @@ MonoBehaviour:
   numdrop1: 0
   dropped2: {fileID: 0}
   numdrop2: 0
+  isdrop: 1
   BePickedUp: 1
   rotx: -130
   roty: 0

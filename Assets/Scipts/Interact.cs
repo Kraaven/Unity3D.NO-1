@@ -70,7 +70,7 @@ public class Interact : MonoBehaviour
             breaktick += Time.deltaTime;
             if (breaktick > breaktime && isbreaking)
             {
-                touch.GetComponent<ObjectInfo>().breakobject(gameObject);
+                touch.GetComponent<ObjectInfo>().breakobject(touch);
                 reset();
             }
 

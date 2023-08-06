@@ -4,11 +4,15 @@
     <list default="true" id="35672182-d6fb-4426-868c-603565e9628f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SomeGame/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SomeGame/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Log.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Log.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stone_1.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Stone_1.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stone_2.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Stone_2.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stone_3.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Stone_3.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stone_4.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Stone_4.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/Stone_5.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/Stone_5.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Prefabs/plank.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Prefabs/plank.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/Start.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Start.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scipts/CharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/CharacterController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scipts/Interact.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/Interact.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scipts/ObjectInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scipts/ObjectInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,7 +107,8 @@
       <workItem from="1690653141795" duration="1509000" />
       <workItem from="1690717551139" duration="2938000" />
       <workItem from="1690799290116" duration="1203000" />
-      <workItem from="1691060809241" duration="2325000" />
+      <workItem from="1691060809241" duration="2991000" />
+      <workItem from="1691324427538" duration="3544000" />
     </task>
     <servers />
   </component>
